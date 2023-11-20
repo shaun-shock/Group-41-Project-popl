@@ -66,17 +66,7 @@ let result = sfs_create("filename");
 
 ### Performance Comparison
 
-As part of our project, we are converting this codebase to Rust and comparing its performance with the original implementation. We have currently incorporated the mount, umount, vdisk, and sfs_create functions.
+As part of our project, we are converting a pre-existing codebase (https://github.com/maryamShahid/simple-file-system/tree/main) to Rust and comparing its performance with the original implementation. We have currently incorporated the mount, umount, vdisk, and sfs_create functions.
 
 For detailed information on the Rust implementation and performance comparison, refer to the project documentation.
 
-## Contributing
-
-If you'd like to contribute to the project, feel free to open issues or pull requests on our GitHub repository. We welcome any suggestions, improvements, or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to copy and use this single-window README template for your Rust project.
