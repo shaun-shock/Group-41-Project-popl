@@ -1,8 +1,6 @@
 # Group-41-Project-popl
 
 
-Certainly! Here's the entire README in a single block for easy copying:
-
 ```markdown
 # Simple File System in Rust
 
